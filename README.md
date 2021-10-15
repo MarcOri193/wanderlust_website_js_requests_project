@@ -1,1 +1,1 @@
-After a free registration for developer accounts, using fetch, async, and await, I’ve requested information from the Foursquare API and OpenWeather API to create a travel website.
+After a free registration for developer accounts, using fetch, async, and await, I've made API calls in JavaScript to use real data from the Foursquare API and OpenWeather API and create a travel website.
